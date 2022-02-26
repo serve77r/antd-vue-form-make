@@ -2,6 +2,7 @@
   "name": "test",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://serve77r.github.io/antd-vue-form-make",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
